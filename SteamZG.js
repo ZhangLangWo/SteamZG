@@ -7,6 +7,7 @@
 // @match        https://xj.steamzg.com/*
 // @match        https://acfb.top/*
 // @grant        GM_setClipboard
+// @license      Private
 // ==/UserScript==
 
 (function() {
